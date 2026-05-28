@@ -15,4 +15,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-![Weather App Screenshot]()
+![Weather App Screenshot](https://github.com/theamanajmeriii/ReactMajorProject/blob/de98d96b3bb4c5848cf8449dd35182b0fd059dbb/ReactMajorProject/Screenshot%202026-05-28%20161421.png)
